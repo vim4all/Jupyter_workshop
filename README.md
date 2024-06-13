@@ -1,9 +1,5 @@
 <img src="Separator.png" alt="drawing"/>
 
-### Jupyter workshop
-
-<img src="Separator.png" alt="drawing"/>
-
 <div style="text-align: center; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
 
 <p style="text-align: center;"> Національний університет “Чернігівська політехніка”</p>
