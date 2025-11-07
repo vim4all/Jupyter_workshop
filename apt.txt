@@ -1,2 +1,5 @@
 ngspice
 libngspice0-dev
+vifm
+mc
+neofetch
